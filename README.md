@@ -1,5 +1,7 @@
 # StockChess
 
+![adsaasdassa](https://github.com/bunnyhop-dev/stockfish-terminal/blob/main/showcase.png?raw=true)
+
 🇺🇸 : This script is intended to study Stockfish's moves only to be applied to your playing strategy. There is no malicious or hidden intention. If you play online with other players, May you be banned, may God bless you.
 #
 🇹🇭 : สคริปต์นี้ถูกทำขึ้นเพื่อการศึกษาวิเคราะห์ตาเดินของStockfishเพื่อนำไปประยุกต์ใช้กับกลยุทธ์การเล่นของคุณเท่านั้น ไม่ได้มีเจตนาร้ายหรือแอบแฝงใดๆ หากคุณนำไปเล่นออนไลน์กับผู้เล่นอื่น ขอให้คุณโดนแบน สาธุ
